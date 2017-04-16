@@ -1,3 +1,3 @@
 # slidetest
 Github testen
-[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/master2go/slidetest/showit?grs=github&t=moon)
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/master2go/slidetest/master?grs=github&t=moon)
