@@ -14,4 +14,4 @@
 * das wär doch auch komisch.
 * super 
 #HSLIDE
----?image=cvkmodelle.png
+---?image=Cvkmodelle.png
