@@ -4,6 +4,8 @@
 * Das wollte
 * ich schon 
 * immer mal sagen
+[ ] code schreiben
+[ ] idee entwickeln
 
 #HSLIDE
 
@@ -13,15 +15,26 @@
 * bestimmt auch
 * das wär doch auch komisch.
 * super 
+
 :flushed:
 
 ---?image=Cvkmodelle.png
 
 #HSLIDE
 
-'''LATEX
+```latex
+
 \begin{itemize}
 \item dies
 \item das
 \end{itemize}
-'''
+```
+
+#HSLIDE
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
