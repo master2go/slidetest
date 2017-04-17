@@ -21,9 +21,9 @@
 ---?image=Cvkmodelle.png
 
 #HSLIDE
+SO GEHTS
 
-```latex
-
+```tex
 \begin{itemize}
 \item dies
 \item das
