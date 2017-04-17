@@ -13,7 +13,15 @@
 * bestimmt auch
 * das wär doch auch komisch.
 * super 
+:flushed:
+
+---?image=Cvkmodelle.png
 
 #HSLIDE
 
----?image=Cvkmodelle.png
+'''LATEX
+\begin{itemize}
+\item dies
+\item das
+\end{itemize}
+'''
