@@ -1,4 +1,8 @@
 #HSLIDE
+
+\tableofcontents
+
+#HSLIDE
 ## Ich teste die Präsentierfunktion
 
 * Das wollte
